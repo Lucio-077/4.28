@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "media_voti__numeri_di_voti_non_predeterminato",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "media_voti__numeri_di_voti_non_predeterminato::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-media_voti__numeri_di_voti_non_predeterminato-Debug-57ed07272b2cf5529018.json",
+					"name" : "media_voti__numeri_di_voti_non_predeterminato",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PC/CLionProjects/media voti (numeri di voti non predeterminato/cmake-build-debug",
+		"source" : "C:/Users/PC/CLionProjects/media voti (numeri di voti non predeterminato"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,19 @@
+# ninja log v6
+3	137	7508754590849643	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+138	245	7508754592204577	temperature.exe	6180bc220e57d4d
+4	224	7508755846354323	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+225	364	7508755848559842	temperature.exe	6180bc220e57d4d
+9	70	7508756028109724	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+71	157	7508756028724822	temperature.exe	6180bc220e57d4d
+4	67	7508757639774653	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+67	158	7508757640399701	temperature.exe	6180bc220e57d4d
+9	95	7508759596419501	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+96	200	7508759597289697	temperature.exe	6180bc220e57d4d
+4	66	7508760382724744	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+67	158	7508760383359845	temperature.exe	6180bc220e57d4d
+4	70	7508761283539720	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+70	161	7508761284191760	temperature.exe	6180bc220e57d4d
+4	60	7508761560444739	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+61	145	7508761561019845	temperature.exe	6180bc220e57d4d
+4	63	7508762752004636	CMakeFiles/temperature.dir/main.c.obj	d1db231e8f7802a
+63	151	7508762752594863	temperature.exe	6180bc220e57d4d

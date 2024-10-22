@@ -1,0 +1,13 @@
+# ninja log v6
+4	77	7508777401609771	CMakeFiles/somma_valori_assoluti.dir/main.c.obj	62cef650ef9c41f9
+77	179	7508777402344888	somma_valori_assoluti.exe	f79228574a4ad6ad
+4	63	7508777724824661	CMakeFiles/somma_valori_assoluti.dir/main.c.obj	62cef650ef9c41f9
+63	148	7508777725409788	somma_valori_assoluti.exe	f79228574a4ad6ad
+4	68	7508778045904662	CMakeFiles/somma_valori_assoluti.dir/main.c.obj	62cef650ef9c41f9
+69	160	7508778046549804	somma_valori_assoluti.exe	f79228574a4ad6ad
+4	60	7508778173264621	CMakeFiles/somma_valori_assoluti.dir/main.c.obj	62cef650ef9c41f9
+61	147	7508778173829681	somma_valori_assoluti.exe	f79228574a4ad6ad
+4	59	7508778341914649	CMakeFiles/somma_valori_assoluti.dir/main.c.obj	62cef650ef9c41f9
+60	146	7508778342469812	somma_valori_assoluti.exe	f79228574a4ad6ad
+5	68	7508778688903200	CMakeFiles/somma_valori_assoluti.dir/main.c.obj	62cef650ef9c41f9
+69	161	7508778689538197	somma_valori_assoluti.exe	f79228574a4ad6ad

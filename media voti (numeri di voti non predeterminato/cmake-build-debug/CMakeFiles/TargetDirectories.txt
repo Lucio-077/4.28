@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/media voti (numeri di voti non predeterminato/cmake-build-debug/CMakeFiles/media_voti__numeri_di_voti_non_predeterminato.dir
+C:/Users/PC/CLionProjects/media voti (numeri di voti non predeterminato/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/media voti (numeri di voti non predeterminato/cmake-build-debug/CMakeFiles/rebuild_cache.dir

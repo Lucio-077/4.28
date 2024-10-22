@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/somma valori assoluti/cmake-build-debug/CMakeFiles/somma_valori_assoluti.dir
+C:/Users/PC/CLionProjects/somma valori assoluti/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/somma valori assoluti/cmake-build-debug/CMakeFiles/rebuild_cache.dir

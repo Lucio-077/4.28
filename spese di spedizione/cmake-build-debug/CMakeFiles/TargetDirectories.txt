@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/spese di spedizione/cmake-build-debug/CMakeFiles/spese_di_spedizione.dir
+C:/Users/PC/CLionProjects/spese di spedizione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/spese di spedizione/cmake-build-debug/CMakeFiles/rebuild_cache.dir

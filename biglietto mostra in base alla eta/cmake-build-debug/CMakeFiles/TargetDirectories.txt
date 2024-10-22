@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/biglietto mostra in base alla eta/cmake-build-debug/CMakeFiles/biglietto_mostra_in_base_alla_eta.dir
+C:/Users/PC/CLionProjects/biglietto mostra in base alla eta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/biglietto mostra in base alla eta/cmake-build-debug/CMakeFiles/rebuild_cache.dir

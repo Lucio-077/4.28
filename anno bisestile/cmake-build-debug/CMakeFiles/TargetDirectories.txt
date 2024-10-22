@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/anno bisestile/cmake-build-debug/CMakeFiles/anno_bisestile.dir
+C:/Users/PC/CLionProjects/anno bisestile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/anno bisestile/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/prevendita biglietti/cmake-build-debug/CMakeFiles/prevendita_biglietti.dir
+C:/Users/PC/CLionProjects/prevendita biglietti/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/prevendita biglietti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
